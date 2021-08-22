@@ -2,4 +2,5 @@
 - 🔥 https://vote1.lixoja.xyz/
 - 🔥 https://vote2.lixoja.xyz/
 - 📛 https://support.lixoja.xyz/
-- 🔮 Lixoja Bot Code (not real code from the Lixoja v2 bot)
+- 🔮 Here are published a few codes. (The Lixoja bot code is not published here).
+-💻 The design languages as well as programming languages used here: Python, JavaScript, HTML, CSS
