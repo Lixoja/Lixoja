@@ -1,0 +1,5 @@
+- 🤖 https://invite.lixoja.xyz/
+- 🔥 https://vote1.lixoja.xyz/
+- 🔥 https://vote2.lixoja.xyz/
+- 📛 https://support.lixoja.xyz/
+- 🔮 Lixoja Bot Code (not real code from the Lixoja v2 bot)
